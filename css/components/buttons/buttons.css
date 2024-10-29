@@ -1,0 +1,20 @@
+.main-btn {
+  padding: 15px;
+  display: inline-block;
+  background-color: blanchedalmond;
+  border-radius: 50px;
+  color: black;
+  transition: 0.5s;
+}
+
+.main-btn:hover {
+  transform: scale(1.1);
+  border-radius: 80px;
+  transition: 0.5s;
+  box-shadow: 0px 0px 7px rgba(255, 255, 255, 0.8);
+}
+
+a {
+  text-decoration: none;
+  margin: 10px;
+}
